@@ -27,7 +27,6 @@ body {
   color: #4d2323;
 }
 
-
 .main-header {
   border: 1px solid red;
 
@@ -48,10 +47,12 @@ body {
 }
 
 .nav-link {
+  text-decoration: none;
+
   padding:0 20px;
   line-height: 50px;
 
-  transition: .3s; /* для интерактиввности при наведении */
+  transition: 0.3s; /* для интерактиввности при наведении */
 
   /* нужно убрать подчеркивание ссылок, указать цвет и размер шрифта */
 }
@@ -96,7 +97,52 @@ body {
   }
 }
 
+.section-title {
+  font-size: 20px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  color: #829985;
+}
+
+.link {
+  text-decoration: none;
+  color: #829985;
+  transition: color 0.5s;  
+}
+
+.link:hover {
+  color: #5d7260;
+}
+
+.rss {
+  width: 121px;
+  height: 45px;
+  background-image: url("./assets/img/rss.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.section-item {
+  position: relative;
+  padding-left: 30px;
+}
+
+.section-item::before {
+  content: "";
+  position: absolute;
+  top: 8px;
+  left: 0px;
+  width: 10px;
+  border: 1px solid #829985;
+  border-radius: 50%;
+}
+
 h1 {
   font-size: 35px;
   color: blue;
+}
+
+footer888 {
+  background-color: blueviolet;
 }
