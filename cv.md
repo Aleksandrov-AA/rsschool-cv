@@ -5,19 +5,19 @@
 Junior Full Stack Developer
 
 ## Contacts
-Email: sana115@mail.ru
-Github: [Aleksandrov-AA](https://github.com/Aleksandrov-AA/ "github")
-Telegram: [@MusteX](https://t.me/mustex "telegram")
-Discord: Aleksandr Aleksandrov#7975
++ Email: sana115@mail.ru
++ Github: [Aleksandrov-AA](https://github.com/Aleksandrov-AA/ "github")
++ Telegram: [@MusteX](https://t.me/mustex "telegram")
++ Discord: Aleksandr Aleksandrov#7975
 
 ## Summary
 I like IT. There are many areas of applying your skills in IT. I have a great speed of mind and I like to solve puzzles, so I came into programming. I love programming. Programming allows you to implement a variety of tasks for many areas of life. I can explain complex things in simple language. I am ready to join the creation of the project. I would like to work under the guidance of an experienced developer. I will be able to explain to ordinary users what our project will be needed for and what it does.
 
 ## Skills (I teach)
-Front-End: HTML5, CSS3, JS, TS, React
-Back-End: PHP, Phyton, Node.js
-Version control: GIT, GitHub
-Other: SQL, NoSQL
+- Front-End: HTML5, CSS3, JS, TS, React
+- Back-End: PHP, Phyton, Node.js
+- Version control: GIT, GitHub
+- Other: SQL, NoSQL
 
 ## Courses
 * RS School - [JS(Stage 0),](https://rs.school/js-stage0/ "JS(Stage 0") [JS(Front)](https://rs.school/js/ "JS(Front)")
@@ -25,17 +25,17 @@ Other: SQL, NoSQL
 * Code-Basick - [HTML,](https://ru.code-basics.com/languages/html "HTML") [CSS,](https://ru.code-basics.com/languages/css "CSS") [PHP](https://ru.code-basics.com/languages/php "PHP")
 
 ## Projects
-*[RS School CV#3](https://aleksandrov-aa.github.io/rsschool-cv/ "CV#3")
+* [RS School CV#3](https://aleksandrov-aa.github.io/rsschool-cv/ "CV#3")
 
 ## Education
-*Pacific State University, Khabarovsk.
-*Financial Institute, Moscow.
-*Technical College, Khabarovsk.
+* Pacific State University, Khabarovsk.
+* Financial Institute, Moscow.
+* Technical College, Khabarovsk.
 
 ## Languages
-English - A2
-Russian - C2
-Simple Human - C2
+* English - A2
+* Russian - C2
+* Simple Human - C2
 
 ## Code
 ```
