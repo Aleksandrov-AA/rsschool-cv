@@ -3,9 +3,9 @@
 
 ## Aleksandr Aleksandrov
 
-[https://aleksandrov-aa.github.io/rsschool-cv/cv] (https://aleksandrov-aa.github.io/rsschool-cv/cv "CV.MD")
+[CV.md](https://aleksandrov-aa.github.io/rsschool-cv/cv "CV.MD")
 
-[https://aleksandrov-aa.github.io/rsschool-cv/] (https://aleksandrov-aa.github.io/rsschool-cv/ "index.html")
+[Index.html](https://aleksandrov-aa.github.io/rsschool-cv/ "index.html")
 
 
 
